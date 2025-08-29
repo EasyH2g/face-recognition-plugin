@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="squarely_facing">Squarely facing the camera</string>
+    <string name="only_one_face">Only one face</string>
+    <string name="start">Start</string>
+    <string name="back">back</string>
+    <string name="please_smile">Please smile</string>
+    <string name="slowly_shake">Slowly shake your head left and right</string>
+</resources>

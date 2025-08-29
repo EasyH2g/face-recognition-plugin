@@ -1,0 +1,12 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+  package="com.h2g.face.plugin.face_recognition">
+    <application>
+        <activity
+            android:name="com.h2g.face.plugin.face_recognition.FaceRecognitionActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            tools:ignore="DiscouragedApi" />
+    </application>
+</manifest>
